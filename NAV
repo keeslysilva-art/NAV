@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atividade NAV</title>
+</head>
+<body>
+    <H1>NAV</H1>
+    <h2>O que é a tag nav </h2>
+    <pre>A tag nav no HTML é um elemeto semântico usado para indicar uma área da página que contém links de navegação</pre>
+
+    
+</body>
+</html>
